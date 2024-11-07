@@ -28,7 +28,3 @@ This project implements a collection of 13 search algorithms and 2 gaming algori
 ## Prerequisites
 
 Ensure you have Python 3.x installed on your machine to run these algorithms.
-
-## Usage
-
-Each algorithm is implemented as a standalone Python function or class within the `search_algorithms.py` file. To run an algorithm, import the corresponding function and call it with your desired parameters.
