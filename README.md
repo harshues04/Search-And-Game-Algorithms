@@ -15,8 +15,8 @@ This project implements a collection of 13 search algorithms and 2 gaming algori
 8. **Branch and Bound Algorithm**
 9. **Branch and Bound with Heuristics**
 10. **Branch and Bound with Extended List**
-11. **A* Algorithm**
-12. **AO* Algorithm**
+11. **A * Algorithm**
+12. **AO * Algorithm**
 13. **Best First Search**
 
 ### Gaming Algorithms
