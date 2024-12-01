@@ -1,6 +1,6 @@
 # Search and Gaming Algorithms
 
-This project implements a collection of 13 search algorithms and 2 gaming algorithms commonly used in Artificial Intelligence and Computer Science. These algorithms help solve various optimization and search problems and are applicable in pathfinding, decision making, and adversarial games.
+This contains a collection of 13 search algorithms and 2 gaming algorithms commonly used in Artificial Intelligence and Computer Science. These algorithms help solve various optimization and search problems and are applicable in pathfinding, decision making, and adversarial games.
 
 ## Algorithms Included
 
